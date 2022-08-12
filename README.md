@@ -11,6 +11,21 @@
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies .
 - ⚡ Fun fact: I love to play PokemonGO <img width="30px" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/82.gif" />.
+<br/>
+
+---
+
+<br/>
+
+### 🔥 Streak stats
+
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="vick's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=VicBond&theme=monokai-metallian&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+</p>
 
 ---
 
@@ -19,24 +34,6 @@
 ### Spotify Playing 🎧
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/5Bq9qDq1mur0zFlO90Hz8S)
-
----
-
-### Contact with me 📝
-<a href="https://www.linkedin.com/in/vickpctech">
-  <img align="left" alt="Victor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discords.com/bio/p/vickpctech">
-  <img align="left" alt="Victor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.npmjs.com/~vick.bond">
-  <img align="left" alt="Victor's NPM" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
-</a>
-<a href="https://medium.com/@vick.pctech">
-  <img align="left" alt="Victor's Medium" width="75px" src="https://github.com/Medium/medium-logos/blob/master/02_Wordmark/02_White/PNG/RGB/Medium-Wordmark-White-RGB%404x.png" />
-</a>
-
-<br />
 
 ---
 
@@ -91,14 +88,27 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
     </a>
 </div
-
+### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
 <br/>
 
 ---
 
-### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+<br/>
 
----
+### Contact with me 📝
+
+<a href="https://www.linkedin.com/in/vickpctech">
+  <img align="left" alt="Victor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://discords.com/bio/p/vickpctech">
+  <img align="left" alt="Victor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://www.npmjs.com/~vick.bond">
+  <img align="left" alt="Victor's NPM" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
+</a>
+<a href="https://medium.com/@vick.pctech">
+  <img align="left" alt="Victor's Medium" width="75px" src="https://github.com/Medium/medium-logos/blob/master/02_Wordmark/02_White/PNG/RGB/Medium-Wordmark-White-RGB%404x.png" />
+</a>
 
 
-Last Edited on: 08/2022
+
