@@ -5,7 +5,7 @@
   <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  />
 </a>
 
-## I'm a Junior Quality Assurance Analyst/ Full Stack Web Developer
+## I'm a Junior Full Stack Web Developer
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Ruby, React, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
