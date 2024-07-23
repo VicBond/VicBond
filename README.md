@@ -10,10 +10,10 @@
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, Ruby, React, Angular etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies .
-- ⚡ Fun fact: I love to play PokemonGO <img width="30px" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/82.gif" />.
+- ⚡ Fun fact: I love to play PUBG <img width="30px" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/82.gif" />.
 <br/>
 
----
+
 
 <br/>
 
