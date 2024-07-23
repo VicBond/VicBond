@@ -1,9 +1,6 @@
 # Hi there, I'm Victor <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-
-<a href="https://github.com/VicBond">
-  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  />
-</a>
+<br/>
 
 ## I'm a Junior Full Stack Web Developer
 
@@ -13,7 +10,9 @@
 - ⚡ Fun fact: I love to play PUBG <img width="30px" src="https://github.com/geekygreek7/animated-pokemon-gifs/blob/master/82.gif" />.
 <br/>
 
-
+<a href="https://github.com/VicBond">
+  <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"  />
+</a>
 
 <br/>
 
