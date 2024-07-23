@@ -100,15 +100,6 @@
 <a href="https://www.linkedin.com/in/vickpctech">
   <img align="left" alt="Victor's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://discords.com/bio/p/vickpctech">
-  <img align="left" alt="Victor's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.npmjs.com/~vick.bond">
-  <img align="left" alt="Victor's NPM" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/npm.svg" />
-</a>
-<a href="https://medium.com/@vick.pctech">
-  <img align="left" alt="Victor's Medium" width="75px" src="https://github.com/Medium/medium-logos/blob/master/02_Wordmark/02_White/PNG/RGB/Medium-Wordmark-White-RGB%404x.png" />
-</a>
 
 
 
